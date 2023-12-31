@@ -7,7 +7,6 @@ import { Add, Chat, FavoriteRounded, Notifications, QuestionMark } from '@mui/ic
 import forward_arrow from './images/forward_arrow.png';
 import Pin from "./components/Pin";
 import Data from "./components/Data";
-import "./app.css"
 
 function App() {
 
